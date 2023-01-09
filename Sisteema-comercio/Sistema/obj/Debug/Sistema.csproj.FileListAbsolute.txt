@@ -1,0 +1,22 @@
+E:\Sistema comercio C#\Sistema\Sistema\bin\Debug\Sistema.exe.config
+E:\Sistema comercio C#\Sistema\Sistema\bin\Debug\Sistema.exe
+E:\Sistema comercio C#\Sistema\Sistema\bin\Debug\Sistema.pdb
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.frm_home.resources
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.exe
+E:\Sistema comercio C#\Sistema\Sistema\obj\Debug\Sistema.pdb
+E:\Clientes\Sistema\Sistema\bin\Debug\Sistema.exe.config
+E:\Clientes\Sistema\Sistema\bin\Debug\Sistema.exe
+E:\Clientes\Sistema\Sistema\bin\Debug\Sistema.pdb
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.frm_home.resources
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.exe
+E:\Clientes\Sistema\Sistema\obj\Debug\Sistema.pdb
